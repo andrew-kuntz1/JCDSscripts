@@ -1,7 +1,4 @@
 #!/bin/bash
-
-pkg="CompanyPortal-Installer.pkg"
-pkg_path="/path/to/$pkg"
 url="https://URL_HERE.jamfcloud.com"
 token_file="/tmp/token.json"
 curl_output_file="/tmp/output.txt"
